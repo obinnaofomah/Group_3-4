@@ -1,5 +1,0 @@
-Print (Jude)
-print (dolapo)
-print(Favour)
-print (Titi)
-print (Caleb)
